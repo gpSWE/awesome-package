@@ -1,0 +1,12 @@
+{
+	"$schema": "https://typedoc.org/schema.json",
+	"entryPoints": [
+		"./library/mod.ts",
+	],
+	"out": "docs",
+	"excludeExternals": true,
+	"excludeNotDocumented": true,
+	"excludePrivate": true,
+	"excludeProtected": true,
+	"readme": "none"
+}
