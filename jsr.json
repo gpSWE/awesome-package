@@ -1,0 +1,5 @@
+{
+	"name": "@webstd/awesome-package",
+	"version": "0.0.1",
+	"exports": "./library/mod.ts"
+}
